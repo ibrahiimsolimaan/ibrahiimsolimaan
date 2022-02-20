@@ -1,10 +1,17 @@
-- 👋 Hi <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width: 100%;">, I’m @ibrahiimsolimaan
+- 👋 Hi, I’m @ibrahiimsolimaan
 - 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently learning Python, HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on projects related to Data Science
 - 📫 How to reach me:
- Linkedin: https://www.linkedin.com/in/ibrahiimsolimaan/
- Email: ibrahiimsolimaan@gmail.com
+
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" class="global-nav__logo">
+      <title>LinkedIn</title>
+
+      <g>
+        <path d="M34,2.5v29A2.5,2.5,0,0,1,31.5,34H2.5A2.5,2.5,0,0,1,0,31.5V2.5A2.5,2.5,0,0,1,2.5,0h29A2.5,2.5,0,0,1,34,2.5ZM10,13H5V29h5Zm.45-5.5A2.88,2.88,0,0,0,7.59,4.6H7.5a2.9,2.9,0,0,0,0,5.8h0a2.88,2.88,0,0,0,2.95-2.81ZM29,19.28c0-4.81-3.06-6.68-6.1-6.68a5.7,5.7,0,0,0-5.06,2.58H17.7V13H13V29h5V20.49a3.32,3.32,0,0,1,3-3.58h.19c1.59,0,2.77,1,2.77,3.52V29h5Z" fill="currentColor"></path>
+      </g>
+    </svg>: https://www.linkedin.com/in/ibrahiimsolimaan/
+<img class="gb_wc" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" srcset="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_2x_r2.png 2x ,https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png 1x" alt="" aria-hidden="true" style="width:109px;height:40px">: ibrahiimsolimaan@gmail.com
  
  Or simply drop a message in my Github! :)
 <!---
